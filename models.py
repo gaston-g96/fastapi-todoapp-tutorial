@@ -11,6 +11,7 @@ import hashlib
 SQLITE3_NAME = "./db.sqlite3"
 
 
+# データベースのUserとTaskを更新するためのクラスを作る
 class User(Base):
     
     """
