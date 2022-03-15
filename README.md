@@ -26,4 +26,5 @@ FastAPIを使ったToDoアプリの作成
     - ルーティング用
 - controllers.py
     - ルーティングに関連した処理を実装
--
+- templatesフォルダ
+    - Viewの管理
