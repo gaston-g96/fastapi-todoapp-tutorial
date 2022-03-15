@@ -1,5 +1,6 @@
 # 概要
-FastAPIを使ったToDoアプリの作成
+- FastAPIを使ったToDoアプリの作成
+- やらないこと：python以外の部分は全部コピペする方針
 
 ## 背景
 - fastAPIの理解が弱いと感じている
@@ -7,6 +8,7 @@ FastAPIを使ったToDoアプリの作成
 
 ## 参考
 - やってるのはこれ：https://rightcode.co.jp/blog/information-technology/fastapi-tutorial-todo-apps-environment
+
 
 ## 起動方法
 - 前準備
